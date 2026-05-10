@@ -256,4 +256,4 @@ The ESP32 sends a JSON packet every **200ms**:
 
 ## 📄 License
 
-MIT © 2026 Abdel fatteh Hamdi
+MIT © 2026 Oussama Zehri
